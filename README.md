@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Shaheen121/Huddle-landing-page-with-curved-sections.git)
-- Live Site URL: [GitHub](https://your-live-site-url.com)
+- Live Site URL: [GitHub](https://shaheen121.github.io/Huddle-landing-page-with-curved-sections/)
 
 ## My process
 
